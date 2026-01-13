@@ -1,6 +1,6 @@
 # 📝 Quiz Application
 
-A clean and user-friendly quiz application developed as part of an internship assignment. The project focuses on delivering a smooth quiz experience with clear navigation, time management, and detailed result review.
+A clean and user-friendly quiz application. The project focuses on delivering a smooth quiz experience with clear navigation, time management, and detailed result review.
 
 ## ✨ Key Features
 
